@@ -1,7 +1,7 @@
 {
-  "name": "Моя первая NFT #1",
+  "name": "Моя первая NFT",
   "description": "🔄 TONSDK УСПЕШНО (13.12.2025 00:41)",
-  "image": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/images/nft_0.png",
+  "image": "https://raw.githubusercontent.com/SpaceLost/Test/main/images/nft_0.png",
   "attributes": [
     {
       "trait_type": "Метод",
@@ -16,5 +16,5 @@
       "value": "GitHub raw"
     }
   ],
-  "external_url": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/metadata/1.json"
+  "external_url": "https://raw.githubusercontent.com/SpaceLost/Test/main/metadata/1.json"
 }
